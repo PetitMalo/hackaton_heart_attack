@@ -1,0 +1,5 @@
+codebook22_llcp-v2-508.zip
+
+# pixi environments
+.pixi
+*.egg-info
